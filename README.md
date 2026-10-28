@@ -14,7 +14,7 @@ This repository includes all material used during the course: seminars and probl
 | ---------- | ---------------------------------------- |
 | 28-10-2026 | [L01: Introduction. What is planning?]() |
 |            | [L02: Discrete Planning]()               |
-| 30-10-2026 | PS1 python check test                    |
+| 30-10-2026 | PS1 python check                    |
 | 4-11-2026  | Holiday                                  |
 | 6-11-2026  | [L03: Configuration Space]()             |
 | 11-11-2026 | S1: Distances                            |
@@ -33,9 +33,9 @@ This repository includes all material used during the course: seminars and probl
 
 Deadline dates for submitting problem sets, in the folder `PS*`:
 
-- PS1: Discrete planning (13-November-2026)
-- PS2: Sampling-based planning (27-November-2026)
-- PS3: TBD (9-December-2026)
+- PS1: Discrete planning (15-November-2026)
+- PS2: Sampling-based planning (29-November-2026)
+- PS3: TBD (6-December-2026)
 
  
 ## Final Course Project
